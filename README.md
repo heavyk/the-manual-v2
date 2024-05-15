@@ -5,4 +5,7 @@ I feel like I've gained enough new knowledge at this point (2024-04-16 15:00) wh
 
 ### the solar system
 - [celestial orbs](/celestial-orbs.md)
-- [the 7 rays](/7-rays.md)
+- [solar layers of perception](/7-rays.md)
+
+### humans
+- [consciousness](/consciousness.md)
